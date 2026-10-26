@@ -679,7 +679,7 @@ Individual calorie requirements can vary depending on many factors. Users with m
 
 ## Author
 
-Developed as a React Native and Expo application project.
+Hein Pyae Sone Phyo — https://github.com/HeinPyaeSonePhyo
 
 ---
 
